@@ -26,4 +26,3 @@ Serves up on localhost:3000
 
   2.  Run Babel to transpile Node/Express back-end for API routes:  
 ```cd server && npm run build-dev:watch```
-# redux-temple
